@@ -1,0 +1,49 @@
+body{
+font-family: 'Fira Sans', sans-serif;
+}
+
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 10px;
+}
+h3{
+    color: #ff9800;
+}
+p{
+    color: gray;
+}
+.Blue-Highlight{
+    color: rgb(91, 91, 255);
+}
+section{
+    margin-bottom: 20px;
+    }
+.layout-management{
+    width: 40%;
+    float: left;
+    padding-left: 6%;
+       
+}
+.layout-management img{
+    width: 100%;
+}
+.Button{
+    color: azure;
+border: solid rgb(127 152 255);
+background-image: linear-gradient(45deg, #f5b7b7, #9191db);
+border-radius: 10px;
+padding: 5px;
+font-size: 20px;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+}
+.bottom-banner{
+  background-image: url(Images/IMG_20190503_145849.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+  
+
